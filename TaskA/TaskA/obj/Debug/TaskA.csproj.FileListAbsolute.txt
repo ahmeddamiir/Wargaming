@@ -1,0 +1,7 @@
+C:\Users\ahmed\OneDrive\Desktop\Internship Tasks\TaskA\TaskA\bin\Debug\TaskA.exe
+C:\Users\ahmed\OneDrive\Desktop\Internship Tasks\TaskA\TaskA\bin\Debug\TaskA.pdb
+C:\Users\ahmed\OneDrive\Desktop\Internship Tasks\TaskA\TaskA\obj\Debug\TaskA.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\Internship Tasks\TaskA\TaskA\obj\Debug\TaskA.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\Desktop\Internship Tasks\TaskA\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Internship Tasks\TaskA\TaskA\obj\Debug\TaskA.exe
+C:\Users\ahmed\OneDrive\Desktop\Internship Tasks\TaskA\TaskA\obj\Debug\TaskA.pdb
